@@ -5,5 +5,5 @@
 
 
 ## Download
-Gradle:
+Gradle:<br />
 implementation 'com.github.manburenshenglu:MyCommodity:master'
